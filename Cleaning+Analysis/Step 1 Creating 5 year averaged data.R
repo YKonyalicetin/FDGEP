@@ -59,7 +59,7 @@ Pov_Hc_5.50 <- Pov_Hc_5.50 %>% gather(Year, Pov_5.50, 5:64)
 
 Pov_Hc_5.50$Indicator.Name <- NULL
 Pov_Hc_5.50$Indicator.Code <- NULL
-Pov_Hc_5.50$ï..Country.Name <- NULL
+Pov_Hc_5.50$Ã¯..Country.Name <- NULL
 
 
 ########################################################################
@@ -94,7 +94,7 @@ Expenses <- Expenses %>% gather(Year, Expenses, 5:64)
 
 Expenses$Indicator.Name <- NULL
 Expenses$Indicator.Code <- NULL
-Expenses$ï..Country.Name <- NULL
+Expenses$Ã¯..Country.Name <- NULL
 
 ########################################################################
 
@@ -112,7 +112,7 @@ Inflation <- Inflation %>% gather(Year, Inflation, 6:65)
 
 Inflation$Indicator.Name <- NULL
 Inflation$Indicator.Code <- NULL
-Inflation$ï..Country.Name <- NULL
+Inflation$Ã¯..Country.Name <- NULL
 
 ########################################################################
 
@@ -228,7 +228,7 @@ Pop_Growth <- Pop_Growth %>% gather(Year, Pop_Growth, 5:64)
 
 Pop_Growth$Indicator.Name <- NULL
 Pop_Growth$Indicator.Code <- NULL
-Pop_Growth$ï..Country.Name <- NULL
+Pop_Growth$Ã¯..Country.Name <- NULL
 
 ########################################################################
 
