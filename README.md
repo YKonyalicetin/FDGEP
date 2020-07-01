@@ -13,9 +13,12 @@ The sample involves low- and middle-income countries and excludes those countrie
 
 Links to data sources:
 
-http://iresearch.worldbank.org/PovcalNet/povOnDemand.aspx
+[PovcalNet](http://iresearch.worldbank.org/PovcalNet/povOnDemand.aspx)
+
 https://data.worldbank.org/
+
 https://www.worldbank.org/en/publication/gfdr/data/global-financial-development-database
+
 http://data.imf.org/?sk=F8032E80-B36C-43B1-AC26-493C5B1CD33B
 
 ## Methodology
