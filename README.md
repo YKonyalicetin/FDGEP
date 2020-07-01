@@ -29,6 +29,8 @@ The results suggest that, on average, marginal effects of mean income growth on 
 
 ![Plotted Relation of Poverty Headcount Ratio at $1.90/day and Private-Sector Credit](https://github.com/YKonyalicetin/MasterThesis/tree/master/Graphs/190_PC.png "")
 
+
+
 ![Plotted Relation of Poverty Headcount Ratio at $1.90/day and Financial Development Index](https://github.com/YKonyalicetin/MasterThesis/tree/master/Graphs/190_FD.png "")
 
 ![Marginal Effect of Mean Income Growth at different Levels of Private-Sector Credit](https://github.com/YKonyalicetin/MasterThesis/tree/master/Graphs/Graph2.pdf)
