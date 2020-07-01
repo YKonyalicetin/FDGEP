@@ -3,6 +3,10 @@
 ## Introduction
 This repository contains the statistical analysis to my master thesis. The analysis examines whether poverty reduction is more successful with higher levels of financial development.
 
+## Tools
+Data cleaning has been mostly achieved through R's tidyverse package. Subsequent Data Cleaning was implemented in Stata.
+Regarding statistical analyses Stata proved to be a much more useful tool due to its high specialization on economics. Data visualization was implemented both in R (ggplot2) and Stata.
+
 ## Methodology and Data
 Three distinct poverty lines at USD 1.90, USD 3.20 and USD 5.50 and two different measures for financial development are observed in order to achieve this objective. An unbalanced panel data set is constructed for the period of 1980-2015 comprising 63 low- and middle-income countries. Estimation techniques include pooled OLS, fixed effects estimation and system-Generalized Method of Moments (GMM).
 
