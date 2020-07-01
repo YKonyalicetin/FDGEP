@@ -29,5 +29,5 @@ The results suggest that, on average, marginal effects of mean income growth on 
 
 ![alt text](https://github.com/YKonyalicetin/MasterThesis/tree/master/Graphs/190_PC.png "Logo Title Text 1")
 
-![Plot1](https://github.com/YKonyalicetin/MasterThesis/tree/master/Graphs/Graph1.pdf "Logo Title Text 1")
+<!-- ![Plot1](https://github.com/YKonyalicetin/MasterThesis/tree/master/Graphs/Graph1.pdf "Logo Title Text 1") --> 
 
