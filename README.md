@@ -15,11 +15,11 @@ Links to data sources:
 
 [PovcalNet](http://iresearch.worldbank.org/PovcalNet/povOnDemand.aspx)
 
-https://data.worldbank.org/
+[Worldbank Data](https://data.worldbank.org/)
 
-https://www.worldbank.org/en/publication/gfdr/data/global-financial-development-database
+[Global Finacial Development Database](https://www.worldbank.org/en/publication/gfdr/data/global-financial-development-database)
 
-http://data.imf.org/?sk=F8032E80-B36C-43B1-AC26-493C5B1CD33B
+[Financial Development Index](http://data.imf.org/?sk=F8032E80-B36C-43B1-AC26-493C5B1CD33B)
 
 ## Methodology
 Three distinct poverty lines at USD 1.90, USD 3.20 and USD 5.50 and two different measures for financial development are observed in order to achieve this objective. An unbalanced panel data set is constructed for the period of 1980-2015 comprising 63 low- and middle-income countries. Estimation techniques include pooled OLS, fixed effects estimation and system-Generalized Method of Moments (GMM).
