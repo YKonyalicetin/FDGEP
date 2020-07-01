@@ -27,6 +27,6 @@ Three distinct poverty lines at USD 1.90, USD 3.20 and USD 5.50 and two differen
 ## Results
 The results suggest that, on average, marginal effects of mean income growth on poverty reduction rise in absolute values with higher levels of financial development. This outcome is robust throughout different poverty lines and estimation techniques. Additionally, the analysis finds a growing marginal effect of mean income growth on poverty reduction with higher degrees of financial development over time. This analysis therefore concludes that financial sector development constitutes a key factor for the goal of poverty reduction.
 
-![Plot1](https://github.com/YKonyalicetin/MasterThesis/tree/master/Graphs/190_PC.png "Logo Title Text 1")
+![alt text](https://github.com/YKonyalicetin/MasterThesis/tree/master/Graphs/190_PC.png "Logo Title Text 1")
 ![Plot1](https://github.com/YKonyalicetin/MasterThesis/tree/master/Graphs/Graph1.pdf "Logo Title Text 1")
 
